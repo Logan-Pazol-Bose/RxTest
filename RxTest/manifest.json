@@ -1,0 +1,6 @@
+{
+    
+    "release": "https://github.com/ReactiveX/RxSwift/releases/download/4.2.0/RxSwift.framework.zip",
+    "frameworks": ["RxTest.framework"]
+    
+}
